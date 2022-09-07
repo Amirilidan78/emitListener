@@ -1,9 +1,3 @@
-# EmitListener
-simple emit and listener package
-
-
-### Quick start 
-```
 package main
 
 import (
@@ -43,5 +37,3 @@ func main() {
 	ClearListeners()
 
 }
-
-```
