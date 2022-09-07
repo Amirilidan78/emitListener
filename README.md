@@ -1,6 +1,8 @@
 # EmitListener
 simple emit and listener package
 
+### Install
+`go get github.com/Amirilidan78/emitListener`
 
 ### Quick start 
 ```
