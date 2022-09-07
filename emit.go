@@ -1,4 +1,4 @@
-package main
+package emitListener
 
 func Emit(message Message) {
 	getChannel() <- message
